@@ -21,7 +21,7 @@ public class Practice1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is a good thing");
-         System.out.println("This is a not good thing");
+         System.out.println("This is a not good 123 thing");
     }
 
 }
