@@ -14,12 +14,14 @@ package practice1;
  */
 public class Practice1 {
 
+    public int age = 5;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is a good thing");
+         System.out.println("This is a not good thing");
     }
 
 }
