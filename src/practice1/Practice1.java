@@ -25,6 +25,7 @@ public class Practice1 {
          System.out.println("This is a not good 123 thing");
          System.out.println("opps what is this");
          System.out.println("this is a fetch");
+         System.out.println("opps what is this");
          
     }
 
